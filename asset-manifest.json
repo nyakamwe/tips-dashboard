@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tips-dashboard/static/css/main.089c2ddc.css",
+    "main.js": "/tips-dashboard/static/js/main.0c204d6c.js",
+    "index.html": "/tips-dashboard/index.html",
+    "main.089c2ddc.css.map": "/tips-dashboard/static/css/main.089c2ddc.css.map",
+    "main.0c204d6c.js.map": "/tips-dashboard/static/js/main.0c204d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089c2ddc.css",
+    "static/js/main.0c204d6c.js"
+  ]
+}
